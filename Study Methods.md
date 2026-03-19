@@ -3,7 +3,6 @@ date: 2024-09-25
 description: A map of evidence-based study techniques — ranked roughly by research support and practical ROI.
 tags: [moc, methods, evidence-based]
 ---
-
 A structured overview of the techniques in this vault, roughly ranked by evidence strength and real-world ROI.
 
 > [!abstract] How to use this note

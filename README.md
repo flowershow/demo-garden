@@ -3,6 +3,7 @@ date: 2024-09-01
 description: My personal knowledge base on learning science — how memory works, what techniques actually help, and notes from books and courses.
 tags: [moc, learning]
 ---
+# Home
 
 > [!quote] Richard Feynman
 > "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."
@@ -17,18 +18,18 @@ Before diving into techniques, it helps to understand the machinery underneath �
 mindmap
   root((Learning))
     Memory
-      [[Working Memory]]
-      [[The Forgetting Curve]]
-      [[Sleep and Memory Consolidation]]
+      Working Memory
+      The Forgetting Curve
+      Sleep and Memory Consolidation
     Techniques
-      [[Spaced Repetition]]
-      [[Active Recall]]
-      [[The Feynman Technique]]
-      [[Interleaving]]
+      Spaced Repetition
+      Active Recall
+      The Feynman Technique
+      Interleaving
     Mindset
-      [[Deliberate Practice]]
-      [[Flow State]]
-      [[Mental Models]]
+      Deliberate Practice
+      Flow State
+      Mental Models
 ```
 
 ## Core Concepts
@@ -40,7 +41,8 @@ mindmap
 
 ## Techniques & Methods
 
-→ See [[Study Methods]] for a structured overview
+> [!note]
+> See [[Study Methods]] for a structured overview
 
 - [[Spaced Repetition]] ⭐ highest ROI
 - [[Active Recall]] ⭐ most underused
