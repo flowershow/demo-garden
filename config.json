@@ -1,0 +1,42 @@
+{
+  "logo": "🌱",
+  "favicon": "🌱",
+  "title": "Learning How to Learn",
+  "nav": {
+    "title": "Learning How to Learn",
+    "links": [
+      {
+        "href": "/concepts",
+        "name": "Concepts"
+      },
+      {
+        "href": "/methods",
+        "name": "Methods"
+      },
+      {
+        "href": "/sources",
+        "name": "Sources"
+      }
+    ],
+    "cta": {
+      "name": "Start Here",
+      "href": "/Home"
+    }
+  },
+  "theme": {
+    "theme": "leaf"
+  },
+  "social": [
+    {
+      "label": "substack",
+      "href": "#",
+      "name": "Substack"
+    },
+    {
+      "label": "mastodon",
+      "href": "#",
+      "name": "Mastodon"
+    }
+  ],
+  "showEditLink": true
+}
