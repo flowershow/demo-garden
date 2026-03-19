@@ -17,11 +17,7 @@
         "href": "/sources",
         "name": "Sources"
       }
-    ],
-    "cta": {
-      "name": "Start Here",
-      "href": "/Home"
-    }
+    ]
   },
   "theme": {
     "theme": "leaf"
